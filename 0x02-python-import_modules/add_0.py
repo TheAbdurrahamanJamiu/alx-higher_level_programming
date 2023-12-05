@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def sum(a, b):
+def add(a, b):
     """My addition function
 
     Args:
